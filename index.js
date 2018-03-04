@@ -1,5 +1,6 @@
 // write your code below!
-var function = (holiday,name);
+var functionholiday; name
+
 function happyHolidays(string) {
   return "Happy holidays!"
 }
